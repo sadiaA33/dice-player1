@@ -1,0 +1,51 @@
+
+body{
+    background: orange;
+}
+.div1{
+        margin-left: 20%;
+        margin-top: 10%;
+        width: 600px;
+        height: 400px;    
+        padding: 50px;
+        border: 1px solid red;
+
+}
+#head{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#number{
+    text-align: center;
+    margin-top: 45px;
+    font-size: 25px;
+    font-weight: bold;
+}
+#roll{
+    position: relative;
+    height: 30px;
+    width: 20%;
+    margin-left: 30%;
+    margin-top: 60px;
+}
+#new{
+    position: relative;
+    width: 20%;
+    height: 30px;
+    
+    margin-top: -300px;
+    
+    
+}
+#placeholder{
+    margin-left: 300px;
+    margin-top: 25px;
+}
+#dice{
+    margin-left: 200px;
+    
+}
+#diceImg{
+    margin-left: 200px;
+}
